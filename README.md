@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **satyadinesh5510@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ig60BeUGOb_yvOu6IHiQJpZTiAOY9LeA/view?usp=sharing](https://drive.google.com/file/d/1ig60BeUGOb_yvOu6IHiQJpZTiAOY9LeA/view?usp=sharing)
+- 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/1TxMXFQOgylin3eWcpKyblZs8SMeQpj8Q/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
