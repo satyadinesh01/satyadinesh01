@@ -8,13 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/satyadinesh01" target="blank"><img src="https://img.shields.io/twitter/follow/satyadinesh01?logo=twitter&style=for-the-badge" alt="satyadinesh01" /></a> </p>
 
-- 🔭 I’m currently working on **React.js and Node**
+- 🔭 I’m currently working on **React.js, Java and Node**
 
 - 🌱 I’m currently learning **MEARN, Spring**
 
 - 👨‍💻 All of my projects are available at ([Portfolio](https://satyadinesh01.framer.website/ ))
 
-- 💬 Ask me about **react**
+- Let's connect in ([LinkedIn](https://www.linkedin.com/in/satya-dinesh-matta-76841b329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+
+- 💬 Ask me about **react & Java**
 
 - 📫 How to reach me **satyadinesh5510@gmail.com**
 
