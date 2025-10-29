@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MEARN, Spring**
 
-- 👨‍💻 All of my projects are available at [satyadinesh.netlify.app](satyadinesh.netlify.app)
+- 👨‍💻 All of my projects are available at ([Portfolio](https://satyadinesh01.framer.website/ ))
 
 - 💬 Ask me about **react**
 
